@@ -1,0 +1,8 @@
+{
+  "name": "THE AMERICAN PLUMBER",
+  "description": "Official web presence for THE AMERICAN PLUMBER (@the_american_plumber) — residential and commercial plumbing craftsmanship, installations, and service inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
